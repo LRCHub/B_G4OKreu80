@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ノンブレス・オブリージュ（feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&初音ミク）",
+  "base_artist": "25時、ナイトコードで。",
+  "createdAt": "2026-02-14T19:21:30.622136Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ノンブレス・オブリージュ (feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&初音ミク)",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/01_ノンブレス・オブリージュ_(feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&初音ミク)_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ノンブレス・オブリージュ (feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&初音ミク)",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": false,
+      "path": "select/pl_01_ノンブレス・オブリージュ_(feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&初音ミク)_25時、ナイトコードで。.txt"
+    }
+  ]
+}
